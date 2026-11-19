@@ -19,7 +19,7 @@ Ferramenta de automação desenvolvida em Python para resolução rápida de pro
 
 1. Clone o repositório:
 
-       git clone https://github.com/vinicius-master/automator-mxls-dell.git
+       git clone https://github.com/vinicius-clemente/automator-mxls-dell.git
        cd automator-mxls-dell
 
 2. Instale as dependências:
